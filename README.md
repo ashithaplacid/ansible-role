@@ -1,8 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
-
+simple role named  '' that displays html page 
 Requirements
 ------------
 
