@@ -1,7 +1,7 @@
 Role Name
 =========
 
-simple role named  '' that displays html page 
+simple role named  'apache-role' that displays html page 
 Requirements
 ------------
 
